@@ -1,2 +1,13 @@
-# learning-python
-CSE 1st-year student with strong problem-solving skills. Solved many coding problems and built a solid foundation in Object-Oriented Programming (OOP). Experienced with loops, nested conditionals, lists, tuples, sets, and dictionaries. Learning Python, HTML, CSS, and JavaScript basics while building web projects.
+# Learning Python
+
+This repository contains my Python practice programs and problem-solving exercises.
+
+## Topics Covered
+- Variables and Data Types
+- Loops and Nested Conditional Statements
+- Lists, Tuples, Sets, and Dictionaries
+- Functions
+- Object-Oriented Programming (OOP)
+
+## Purpose
+To strengthen my programming fundamentals, improve logical thinking, and build confidence through regular practice.
